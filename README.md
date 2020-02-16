@@ -1,5 +1,7 @@
 # remote-ruby-jobs
 
+![alt text](https://botmakers.blob.core.windows.net/screenshots/f_1xNu4J1aa.png "Tarta Remote Jobs")
+
 
 Found 169 Remote ruby Jobs
 [https://tarta.ai/jobs/remote-ruby-jobs/](https://tarta.ai/jobs/remote-ruby-jobs/)
